@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ page.description | default: site.description | escape }}">
+    <title>{{ page.title | default: site.title | escape }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrapper site-header__inner">
+        <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
+        <nav class="site-nav" aria-label="Main navigation">
+          <a class="page-link" href="{{ '/' | relative_url }}">Home</a>
+          <a class="page-link" href="{{ '/projects/' | relative_url }}">Projects</a>
+          <a class="page-link" href="{{ '/teaching/' | relative_url }}">Teaching</a>
+          <a class="page-link" href="https://www.jetshri.com">Artist Website</a>
+        </nav>
+      </div>
+    </header>
+    <main class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+    <footer class="site-footer">
+      <div class="wrapper">
+        <p>Jetshri Bhadviya · Artist, Educator, Curator, and Researcher</p>
+      </div>
+    </footer>
+  </body>
+</html>

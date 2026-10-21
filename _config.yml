@@ -1,6 +1,7 @@
 title: Jetshri
 description: Academic Portfolio
 theme: minima
+baseurl: "/my-academic-portfolio"
 defaults:
   - scope:
       path: ""
