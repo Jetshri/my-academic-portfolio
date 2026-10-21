@@ -143,6 +143,8 @@ She is also interested in the intersections of technology, authorship, ethics, a
 <details markdown="1">
 <summary>Curatorial Projects</summary>
 
+[View full curatorial portfolio](https://www.jetshri.com/curatorial-portfolio)
+
 - **2025** - *#TitleMe*, Southeast Museum of Photography, Daytona Beach, Florida, USA
 - **2025** - *Daytona One Student Exhibition*, Florida, USA
 - **2024** - *Third Space of Anthropocene*, Detroit Artist Market, Detroit, Michigan, USA

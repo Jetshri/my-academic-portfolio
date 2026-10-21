@@ -5,6 +5,8 @@ description: Teaching experience and courses taught by Jetshri Bhadviya.
 
 # Teaching Experience
 
+[View student portfolio](https://www.jetshri.com/student-portfolio)
+
 ### Daytona State College
 
 **Assistant Professor, School of Digital Media Production | 2023-Present**
