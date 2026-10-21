@@ -31,8 +31,6 @@ Her curatorial work focuses on identity, immigration, gender politics, environme
 
 Her exhibitions have included the Grand Rapids Art Museum, Kresge Arts Foundation, and David Klein Gallery in Michigan, as well as the Sheikha Manal Young Artist Foundation in Dubai, where she was recognized as a top-ten artist in 2011. She received the Toby Devan Lewis Fellowship Award in 2015.
 
-![Jetshri Bhadviya](https://format.creatorcdn.com/fa6e52a9-b98a-49d9-8357-4e9eb799e79c/0/0/0/119,0,1123,1254,570,712/0-0-0/f23cca8c-ca38-44a5-bc88-e688f6691a2b/1/2/pic.png?fjkss=exp=2108220699~hmac=5ecb0e7449700bc0eb88ca71a14eb0c195978ce9aa192932bc7c02379336e442)
-
 ### Art Practice
 
 As an artist, Jetshri explores the layered complexities of personal identity, cultural heritage, and the human experience through photography, performance, sound, and sculpture. Her practice is deeply influenced by her upbringing in Jainism, an ancient Indian tradition centered on non-violence, introspection, and spiritual growth. Her early training in Kathak, a classical Indian dance form, fostered an appreciation for rhythm, storytelling, and discipline. These formative influences continue to shape her exploration of the dynamic balance between tradition and personal expression.
