@@ -1,3 +1,8 @@
 title: Jetshri
 description: Academic Portfolio
 theme: minima
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

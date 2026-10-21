@@ -1,23 +1,22 @@
----
-layout: default
-title: Academic Portfolio
-description: Academic portfolio and curriculum vitae of Jetshri Bhadviya.
----
+<header class="portfolio-hero">
+  <div class="portfolio-hero__intro">
+    <p class="portfolio-kicker">Artist · Educator · Curator · Designer · Researcher</p>
+    <h1>Jetshri Bhadviya</h1>
+    <p class="portfolio-hero__summary">Photography, digital media, visual culture, and practice-based research.</p>
+    <a class="portfolio-button" href="https://www.jetshri.com">Visit artist website <span aria-hidden="true">↗</span></a>
+  </div>
+  <img class="portfolio-hero__image" src="assets/featured-image.jpg" alt="Portrait of Jetshri Bhadviya">
+</header>
 
-# Jetshri Bhadviya
-
-**Artist | Educator | Curator | Designer | Researcher**
-
-[Artist Website](https://www.jetshri.com)
-
-![Featured portrait of Jetshri](assets/featured-image.jpg)
-
-## Contents
-
-- [About](#about)
-- [Academic Interests](#academic-interests)
-- [Publications and Press](#publications-and-press)
-- [CV](#cv)
+<nav class="portfolio-nav" aria-label="Portfolio sections">
+  <p class="portfolio-kicker">Explore</p>
+  <ul>
+    <li><a href="#about">About</a></li>
+    <li><a href="#academic-interests">Academic Interests</a></li>
+    <li><a href="#publications-and-press">Publications and Press</a></li>
+    <li><a href="#cv">CV</a></li>
+  </ul>
+</nav>
 
 ## About
 
