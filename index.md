@@ -65,7 +65,20 @@ As a curator, I strive to create thoughtful and welcoming spaces that reflect a 
 
 ## Academic Interests
 
-Add your research areas, academic interests, and relevant projects.
+My academic and research interests lie at the intersection of photography, digital media, visual culture, critical making, and interdisciplinary artistic research. Through practice-based inquiry, I explore how identity, memory, displacement, cultural narratives, and embodied experiences are constructed, represented, and transformed through artistic practices and emerging technologies. My research examines the body and objects as archives of personal and collective memory, particularly in relation to diaspora, gender, spirituality, mythology, and cultural inheritance. I am also interested in the intersections of technology, authorship, ethics, and representation, investigating how artificial intelligence, digital archives, surveillance, and immersive media shape our understanding of identity and lived experience. As an artist, curator, and educator, I approach creative practice as a form of knowledge production, using material experimentation, critical inquiry, and interdisciplinary methodologies to challenge dominant narratives and explore alternative ways of knowing.
+
+**Areas of Academic Interest:**
+
+- Practice-Based Research, Research-Creation, and Critical Making
+- Photography, Visual Culture, and Alternative Photographic Processes
+- Identity, Cultural Memory, Diaspora, and Displacement
+- Feminist Theory, Postcolonial Studies, and Body Politics
+- Digital Humanities, Artificial Intelligence, and Emerging Media
+- Material Culture, Ritual, Mythology, and Object-Based Inquiry
+- Authorship, Representation, Surveillance, and Technology Ethics
+- Curatorial Studies, Exhibition-Making, and Audience Engagement
+- Environmental Humanities, the Anthropocene, and Ecological Justice
+- Interdisciplinary Art and Design Pedagogy
 
 ## Publications
 
