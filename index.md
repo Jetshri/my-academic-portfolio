@@ -5,7 +5,7 @@
     <p class="portfolio-hero__summary">Photography, digital media, visual culture, and practice-based research.</p>
     <a class="portfolio-button" href="https://www.jetshri.com">Visit artist website <span aria-hidden="true">↗</span></a>
   </div>
-  <img class="portfolio-hero__image" src="assets/featured-image.jpg" alt="Portrait of Jetshri Bhadviya">
+  <img class="portfolio-hero__image" width="50%" height="50%" src="assets/featured-image.jpg" alt="Portrait of Jetshri Bhadviya">
 </header>
 
 <nav class="portfolio-nav" aria-label="Portfolio sections">
